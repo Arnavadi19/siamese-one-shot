@@ -96,5 +96,3 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-
-Let me know if there’s anything else to address or refine!
